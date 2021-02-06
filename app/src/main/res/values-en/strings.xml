@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Sudoku Solver</string>
+    <string name="resetBoard">Reset Board</string>
+    <string name="solveBoard">Solve</string>
+    <!-- MenuItems -->
+    <string name="settingsItem">Settings</string>
+    <string name="aboutItem">About</string>
+    <!-- Preference Titles -->
+    <string name="application_header">Application</string>
+    <string name="sudoku_header">Sudoku</string>
+    <!-- Theme Preferences -->
+    <string name="app_theme_title">Theme</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <!-- Sudoku Preferences -->
+    <string name="app_textSize_title">Text Size</string>
+    <!-- Language Preferences-->
+    <string name="app_language_title">Language</string>
+    <string name="system">System</string>
+    <string name="english">English</string>
+    <string name="russian">Russian</string>
+    <string name="german">German</string>
+    <string name="spanish">Spanish</string>
+    <string name="french">French</string>
+    <string name="japanese">Japanese</string>
+    <string name="portuguese">Portuguese</string>
+    <string name="italian">Italian</string>
+    <string name="persian">Persian</string>
+    <string name="polish">Polish</string>
+    <string name="hindi">Hindi</string>
+    <string name="chinese">Chinese</string>
+    <!-- key == locale -->
+    <string name="systemKey">system</string>
+    <!-- FieldSize Preferences -->
+
+    <!-- Preferences Key -->
+    <!-- About -->
+    <string name="settingsTitle">Settings</string>
+    <string name="aboutTitle">About</string>
+    <string name="website">Website</string>
+    <string name="privacyPolicy">Privacy Policy</string>
+    <string name="contact">Contact</string>
+    <string name="sourceCode">Source Code</string>
+    <string name="reportBug">Report Bug</string>
+    <string name="rateApp">Rate App</string>
+    <string name="version">VERSION</string>
+
+
+</resources>

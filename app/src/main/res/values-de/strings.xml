@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Sudoku-Löser</string>
+    <string name="resetBoard">Zurücksetzen</string>
+    <string name="solveBoard">Lösen</string>
+
+    <string name="settingsItem">Einstellungen</string>
+    <string name="aboutItem">Über</string>
+
+    <string name="application_header">Anwendung</string>
+    <string name="sudoku_header">Sudoku</string>
+
+    <string name="app_theme_title">Thema</string>
+    <string name="light">Hell</string>
+    <string name="dark">Dunkel</string>
+
+    <string name="app_textSize_title">Textgröße</string>
+
+    <string name="app_language_title">Sprache</string>
+    <string name="system">System</string>
+    <string name="english">Englisch</string>
+    <string name="russian">Russisch</string>
+    <string name="german">Deutsch</string>
+    <string name="spanish">Spanisch</string>
+    <string name="french">Französisch</string>
+    <string name="japanese">Japanisch</string>
+    <string name="portuguese">Portugiesisch</string>
+    <string name="italian">Italienisch</string>
+    <string name="persian">Persisch</string>
+    <string name="polish">Polnisch</string>
+    <string name="hindi">Hindi</string>
+    <string name="chinese">Chinesisch</string>
+    <string name="systemKey">System</string>
+    <string name="settingsTitle">Einstellungen</string>
+    <string name="aboutTitle">Über</string>
+    <string name="website">Webseite</string>
+    <string name="privacyPolicy">Datenschutz-Bestimmungen</string>
+    <string name="contact">Kontakt</string>
+    <string name="sourceCode">Quellcode</string>
+    <string name="reportBug">Fehler melden</string>
+    <string name="rateApp">Bewerte App</string>
+    <string name="version">VERSION</string>
+
+</resources>

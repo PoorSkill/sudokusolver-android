@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- About -->
+    <style name="about_topic">
+        <item name="android:gravity">center</item>
+        <item name="textAllCaps">true</item>
+    </style>
+
+    <style name="about_content">
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="about_button">
+        <item name="android:layout_marginEnd">50sp</item>
+        <item name="android:layout_marginStart">50sp</item>
+        <item name="android:layout_marginTop">20sp</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+</resources>

@@ -1,0 +1,59 @@
+<resources>
+    <!-- Theme Preference -->
+    <string-array name="theme_entries">
+        <item>@string/system</item>
+        <item>@string/light</item>
+        <item>@string/dark</item>
+    </string-array>
+    <string-array name="theme_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <!-- Language Preference -->
+    <string-array name="language_entries">
+        <item>@string/system</item>
+        <item>@string/english</item>
+        <item>@string/russian</item>
+        <item>@string/german</item>
+        <item>@string/spanish</item>
+        <item>@string/french</item>
+        <item>@string/japanese</item>
+        <item>@string/portuguese</item>
+        <item>@string/italian</item>
+        <item>@string/persian</item>
+        <item>@string/polish</item>
+        <item>@string/hindi</item>
+        <item>@string/chinese</item>
+    </string-array>
+    <string-array name="language_values">
+        <item>@string/systemKey</item>
+        <item>@string/englishKey</item>
+        <item>@string/russianKey</item>
+        <item>@string/germanKey</item>
+        <item>@string/spanishKey</item>
+        <item>@string/frenchKey</item>
+        <item>@string/japaneseKey</item>
+        <item>@string/portugueseKey</item>
+        <item>@string/italianKey</item>
+        <item>@string/persianKey</item>
+        <item>@string/polishKey</item>
+        <item>@string/hindiKey</item>
+        <item>@string/chineseKey</item>
+    </string-array>
+    <!-- FieldSize Preference -->
+    <!-- TextSize Preference -->
+    <string-array name="textSize_entries">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="textSize_values">
+        <item>25</item>
+        <item>50</item>
+        <item>75</item>
+        <item>100</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ui.about.AboutActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        app:srcCompat="@drawable/pixel_panda" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="@dimen/about_padding">
+
+            <TextView
+                style="@style/about_content"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/copyrightAntonKesy" />
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/websiteButton"
+            style="@style/about_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/website" />
+
+        <Button
+            android:id="@+id/privacyPolicyButton"
+            style="@style/about_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/privacyPolicy" />
+
+        <Button
+            android:id="@+id/contactButton"
+            style="@style/about_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/contact" />
+
+        <Button
+            android:id="@+id/sourceCodeButton"
+            style="@style/about_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sourceCode" />
+
+
+        <LinearLayout
+            style="@style/about_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/reportBugButton"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="5sp"
+                android:layout_weight="1"
+                android:text="@string/reportBug" />
+
+            <Button
+                android:id="@+id/rateAppButton"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5sp"
+                android:layout_weight="1"
+                android:text="@string/rateApp" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/about_padding">
+
+        <TextView
+            style="@style/about_topic"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/version" />
+
+        <TextView
+            android:id="@+id/versionCodeAbout"
+            style="@style/about_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+</LinearLayout>

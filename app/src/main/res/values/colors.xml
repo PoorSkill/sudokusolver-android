@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="selectedCell">#00FF00</color>
+    <color name="conflictLevel1Cell">#FF6460</color>
+    <color name="conflictLevel2Cell">#FF3934</color>
+    <color name="conflictLevel3Cell">#FF010A</color>
+    <color name="fixedCell">#acacac</color>
+</resources>
