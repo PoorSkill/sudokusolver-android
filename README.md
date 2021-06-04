@@ -39,6 +39,7 @@ You can add your language or help me translate :)
 
 Bugs
 * BoardView is not symmetrical
+* Solve algorithm (backtracking) not efficient enough
 
 ## License
 
